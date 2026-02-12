@@ -1,0 +1,7 @@
+{
+  "name": "Speechoke",
+  "description": "The contrarian speech karaoke machine.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
