@@ -4,7 +4,7 @@ Practice famous speeches. Get instant feedback.
 
 ## Demo
 
-<video src="assets/speechoke.mp4" controls width="100%"></video>
+![Demo](assets/speechoke.gif)
 
 ## What it is
 
