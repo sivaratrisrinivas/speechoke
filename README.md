@@ -2,6 +2,10 @@
 
 Practice famous speeches. Get instant feedback.
 
+## Demo
+
+<video src="assets/speechoke.mp4" controls width="100%"></video>
+
 ## What it is
 
 Speechoke is a speech karaoke app. You pick a famous speech (or write your own), read it from a scrolling teleprompter while it records you, then get scores and feedback from an AI coach on clarity, emotion, and pacing.
